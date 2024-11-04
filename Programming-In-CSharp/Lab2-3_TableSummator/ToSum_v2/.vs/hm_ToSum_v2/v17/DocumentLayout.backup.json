@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|d:\\programming-in-csharp\\hm_tosum_v2\\hm_tosum_v2\\tokenreaderbylines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|solutionrelative:tokenreaderbylines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|d:\\programming-in-csharp\\hm_tosum_v2\\hm_tosum_v2\\tokenreaderbychars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|solutionrelative:tokenreaderbychars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|d:\\programming-in-csharp\\hm_tosum_v2\\hm_tosum_v2\\itokenreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|solutionrelative:itokenreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|d:\\programming-in-csharp\\hm_tosum_v2\\hm_tosum_v2\\itokenprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|solutionrelative:itokenprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF438F51-4FA2-496D-B8AB-E2CE9A2E0785}|..\\ToSumTests\\ToSumTests.csproj|d:\\programming-in-csharp\\hm_tosum_v2\\tosumtests\\correctoutputtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF438F51-4FA2-496D-B8AB-E2CE9A2E0785}|..\\ToSumTests\\ToSumTests.csproj|d:\\programming-in-csharp\\hm_tosum_v2\\tosumtests\\fileformattests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|d:\\programming-in-csharp\\hm_tosum_v2\\hm_tosum_v2\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|solutionrelative:errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|d:\\programming-in-csharp\\hm_tosum_v2\\hm_tosum_v2\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|solutionrelative:input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|d:\\programming-in-csharp\\hm_tosum_v2\\hm_tosum_v2\\paragraphwordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|solutionrelative:paragraphwordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|d:\\programming-in-csharp\\hm_tosum_v2\\hm_tosum_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|d:\\programming-in-csharp\\hm_tosum_v2\\hm_tosum_v2\\tablesummator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|solutionrelative:tablesummator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|d:\\programming-in-csharp\\hm_tosum_v2\\hm_tosum_v2\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|solutionrelative:token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|d:\\programming-in-csharp\\hm_tosum_v2\\hm_tosum_v2\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|solutionrelative:validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|d:\\programming-in-csharp\\hm_tosum_v2\\hm_tosum_v2\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{77069ED8-8646-4460-8393-F773C0B41918}|hm_ToSum_v2.csproj|solutionrelative:output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileFormatTests.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\ToSumTests\\FileFormatTests.cs",
+              "RelativeDocumentMoniker": "..\\ToSumTests\\FileFormatTests.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\ToSumTests\\FileFormatTests.cs",
+              "RelativeToolTip": "..\\ToSumTests\\FileFormatTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:13:27.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITokenReader.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\ITokenReader.cs",
+              "RelativeDocumentMoniker": "ITokenReader.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\ITokenReader.cs",
+              "RelativeToolTip": "ITokenReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:27:46.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorHandler.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\ErrorHandler.cs",
+              "RelativeDocumentMoniker": "ErrorHandler.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\ErrorHandler.cs",
+              "RelativeToolTip": "ErrorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:01:31.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "output.txt",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\output.txt",
+              "RelativeDocumentMoniker": "output.txt",
+              "ToolTip": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\output.txt",
+              "RelativeToolTip": "output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-29T14:56:11.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParagraphWordCounter.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\ParagraphWordCounter.cs",
+              "RelativeDocumentMoniker": "ParagraphWordCounter.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\ParagraphWordCounter.cs",
+              "RelativeToolTip": "ParagraphWordCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:34:57.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\Validator.cs",
+              "RelativeDocumentMoniker": "Validator.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\Validator.cs",
+              "RelativeToolTip": "Validator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:41:36.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:57:18.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CorrectOutputTests.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\ToSumTests\\CorrectOutputTests.cs",
+              "RelativeDocumentMoniker": "..\\ToSumTests\\CorrectOutputTests.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\ToSumTests\\CorrectOutputTests.cs",
+              "RelativeToolTip": "..\\ToSumTests\\CorrectOutputTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:06:34.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TableSummator.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\TableSummator.cs",
+              "RelativeDocumentMoniker": "TableSummator.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\TableSummator.cs",
+              "RelativeToolTip": "TableSummator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:56:53.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenReaderByChars.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\TokenReaderByChars.cs",
+              "RelativeDocumentMoniker": "TokenReaderByChars.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\TokenReaderByChars.cs",
+              "RelativeToolTip": "TokenReaderByChars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:56:44.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITokenProcessor.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\ITokenProcessor.cs",
+              "RelativeDocumentMoniker": "ITokenProcessor.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\ITokenProcessor.cs",
+              "RelativeToolTip": "ITokenProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:55:42.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "input.txt",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\input.txt",
+              "RelativeDocumentMoniker": "input.txt",
+              "ToolTip": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\input.txt",
+              "RelativeToolTip": "input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-25T13:45:41.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Token.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\Token.cs",
+              "RelativeDocumentMoniker": "Token.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\Token.cs",
+              "RelativeToolTip": "Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:58:22.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenReaderByLines.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\TokenReaderByLines.cs",
+              "RelativeDocumentMoniker": "TokenReaderByLines.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\hm_ToSum_v2\\hm_ToSum_v2\\TokenReaderByLines.cs",
+              "RelativeToolTip": "TokenReaderByLines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:57:57.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

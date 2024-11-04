@@ -1,0 +1,14 @@
+D:\Programming-In-CSharp\ParagraphCounting\ParagraphCounting\bin\Debug\net8.0\ParagraphCounting.exe
+D:\Programming-In-CSharp\ParagraphCounting\ParagraphCounting\bin\Debug\net8.0\ParagraphCounting.deps.json
+D:\Programming-In-CSharp\ParagraphCounting\ParagraphCounting\bin\Debug\net8.0\ParagraphCounting.runtimeconfig.json
+D:\Programming-In-CSharp\ParagraphCounting\ParagraphCounting\bin\Debug\net8.0\ParagraphCounting.dll
+D:\Programming-In-CSharp\ParagraphCounting\ParagraphCounting\bin\Debug\net8.0\ParagraphCounting.pdb
+D:\Programming-In-CSharp\ParagraphCounting\ParagraphCounting\obj\Debug\net8.0\ParagraphCounting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-In-CSharp\ParagraphCounting\ParagraphCounting\obj\Debug\net8.0\ParagraphCounting.AssemblyInfoInputs.cache
+D:\Programming-In-CSharp\ParagraphCounting\ParagraphCounting\obj\Debug\net8.0\ParagraphCounting.AssemblyInfo.cs
+D:\Programming-In-CSharp\ParagraphCounting\ParagraphCounting\obj\Debug\net8.0\ParagraphCounting.csproj.CoreCompileInputs.cache
+D:\Programming-In-CSharp\ParagraphCounting\ParagraphCounting\obj\Debug\net8.0\ParagraphCounting.dll
+D:\Programming-In-CSharp\ParagraphCounting\ParagraphCounting\obj\Debug\net8.0\refint\ParagraphCounting.dll
+D:\Programming-In-CSharp\ParagraphCounting\ParagraphCounting\obj\Debug\net8.0\ParagraphCounting.pdb
+D:\Programming-In-CSharp\ParagraphCounting\ParagraphCounting\obj\Debug\net8.0\ParagraphCounting.genruntimeconfig.cache
+D:\Programming-In-CSharp\ParagraphCounting\ParagraphCounting\obj\Debug\net8.0\ref\ParagraphCounting.dll

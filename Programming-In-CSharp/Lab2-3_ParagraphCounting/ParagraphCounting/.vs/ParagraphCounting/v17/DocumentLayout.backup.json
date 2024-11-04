@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming-In-CSharp\\ParagraphCounting\\ParagraphCounting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B239A151-A3C9-4746-ACAB-371286A6B8C6}|..\\ParagraphWordCounterTests\\ParagraphWordCounterTests.csproj|d:\\programming-in-csharp\\paragraphcounting\\paragraphwordcountertests\\correctoutputtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD0D177-E8B7-439F-81EA-525E59CCC65A}|ParagraphCounting.csproj|d:\\programming-in-csharp\\paragraphcounting\\paragraphcounting\\paragraphcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD0D177-E8B7-439F-81EA-525E59CCC65A}|ParagraphCounting.csproj|solutionrelative:paragraphcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD0D177-E8B7-439F-81EA-525E59CCC65A}|ParagraphCounting.csproj|d:\\programming-in-csharp\\paragraphcounting\\paragraphcounting\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD0D177-E8B7-439F-81EA-525E59CCC65A}|ParagraphCounting.csproj|solutionrelative:errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD0D177-E8B7-439F-81EA-525E59CCC65A}|ParagraphCounting.csproj|d:\\programming-in-csharp\\paragraphcounting\\paragraphcounting\\wordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD0D177-E8B7-439F-81EA-525E59CCC65A}|ParagraphCounting.csproj|solutionrelative:wordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD0D177-E8B7-439F-81EA-525E59CCC65A}|ParagraphCounting.csproj|d:\\programming-in-csharp\\paragraphcounting\\paragraphcounting\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD0D177-E8B7-439F-81EA-525E59CCC65A}|ParagraphCounting.csproj|solutionrelative:validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD0D177-E8B7-439F-81EA-525E59CCC65A}|ParagraphCounting.csproj|d:\\programming-in-csharp\\paragraphcounting\\paragraphcounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD0D177-E8B7-439F-81EA-525E59CCC65A}|ParagraphCounting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CorrectOutputTests.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\ParagraphCounting\\ParagraphWordCounterTests\\CorrectOutputTests.cs",
+              "RelativeDocumentMoniker": "..\\ParagraphWordCounterTests\\CorrectOutputTests.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\ParagraphCounting\\ParagraphWordCounterTests\\CorrectOutputTests.cs",
+              "RelativeToolTip": "..\\ParagraphWordCounterTests\\CorrectOutputTests.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAIwOsAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:33:04.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\ParagraphCounting\\ParagraphCounting\\Validator.cs",
+              "RelativeDocumentMoniker": "Validator.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\ParagraphCounting\\ParagraphCounting\\Validator.cs",
+              "RelativeToolTip": "Validator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:30:06.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorHandler.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\ParagraphCounting\\ParagraphCounting\\ErrorHandler.cs",
+              "RelativeDocumentMoniker": "ErrorHandler.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\ParagraphCounting\\ParagraphCounting\\ErrorHandler.cs",
+              "RelativeToolTip": "ErrorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:30:03.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordCounter.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\ParagraphCounting\\ParagraphCounting\\WordCounter.cs",
+              "RelativeDocumentMoniker": "WordCounter.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\ParagraphCounting\\ParagraphCounting\\WordCounter.cs",
+              "RelativeToolTip": "WordCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:30:01.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParagraphCounter.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\ParagraphCounting\\ParagraphCounting\\ParagraphCounter.cs",
+              "RelativeDocumentMoniker": "ParagraphCounter.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\ParagraphCounting\\ParagraphCounting\\ParagraphCounter.cs",
+              "RelativeToolTip": "ParagraphCounter.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:30:00.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming-In-CSharp\\ParagraphCounting\\ParagraphCounting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming-In-CSharp\\ParagraphCounting\\ParagraphCounting\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:26:35.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
